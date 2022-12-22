@@ -1,6 +1,3 @@
-																			          <h1 align="center">  Website Cửa Hàng Sách </h1>
-																				  
-                                       
 <h1> Hoạt động nghiệp vụ của cửa hàng</h1>
 
 Yêu cầu xây dựng website bán sách với số lượng nhỏ, cho phép bán lẻ và sỉ. Cửa hàng yêu cầu xây dựng website với các chức năng chính như sau:
