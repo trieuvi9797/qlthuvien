@@ -8,6 +8,7 @@ if (isset($_POST['login'])) {
 	$sql = "select * from admin where username='$username'and password='$password' limit 1";
 	$query = mysqli_query($conn, $sql);
 	$nums = mysqli_num_rows($query);
+	// $nums = mysqli_num_rows($query);
 	if ($nums > 0) {
 		$row = mysqli_fetch_array($query);
 
